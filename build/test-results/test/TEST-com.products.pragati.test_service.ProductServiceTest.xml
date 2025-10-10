@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.products.pragati.test_service.ProductServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-09-29T09:05:06.392Z" hostname="ENCDAPPUNLT0131" time="0.335">
+  <properties/>
+  <testcase name="TEST GET ALL PRODUCTS" classname="com.products.pragati.test_service.ProductServiceTest" time="0.308"/>
+  <testcase name="TEST ADD PRODUCT" classname="com.products.pragati.test_service.ProductServiceTest" time="0.017"/>
+  <testcase name="TEST FILTER PRODUCTS BY NAME" classname="com.products.pragati.test_service.ProductServiceTest" time="0.003"/>
+  <testcase name="TEST DELETE PRODUCT BY ID" classname="com.products.pragati.test_service.ProductServiceTest" time="0.003"/>
+  <testcase name="TEST GET PRODUCT BY ID" classname="com.products.pragati.test_service.ProductServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

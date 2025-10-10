@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.products.pragati.test_controller.ProductControllerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-09-29T09:05:04.624Z" hostname="ENCDAPPUNLT0131" time="0.203">
+  <properties/>
+  <testcase name="GET /products - should return list of products" classname="com.products.pragati.test_controller.ProductControllerTest" time="0.153"/>
+  <testcase name="POST /products - should create a product" classname="com.products.pragati.test_controller.ProductControllerTest" time="0.027"/>
+  <testcase name="GET /products/{id} - should return product by id" classname="com.products.pragati.test_controller.ProductControllerTest" time="0.016"/>
+  <system-out><![CDATA[2025-09-29T14:35:03.638+05:30  INFO 14260 --- [ProductsPrj] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.products.pragati.test_controller.ProductControllerTest]: ProductControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-09-29T14:35:03.654+05:30  INFO 14260 --- [ProductsPrj] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.products.pragati.ProductsPrjApplication for test class com.products.pragati.test_controller.ProductControllerTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.6)
+
+2025-09-29T14:35:03.700+05:30  INFO 14260 --- [ProductsPrj] [    Test worker] c.p.p.t.ProductControllerTest            : Starting ProductControllerTest using Java 21.0.7 with PID 14260 (started by Pragati.Talekar in C:\Users\Pragati.Talekar\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\ProductsPrj)
+2025-09-29T14:35:03.701+05:30  INFO 14260 --- [ProductsPrj] [    Test worker] c.p.p.t.ProductControllerTest            : No active profile set, falling back to 1 default profile: "default"
+2025-09-29T14:35:04.572+05:30  INFO 14260 --- [ProductsPrj] [    Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2025-09-29T14:35:04.572+05:30  INFO 14260 --- [ProductsPrj] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2025-09-29T14:35:04.574+05:30  INFO 14260 --- [ProductsPrj] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2025-09-29T14:35:04.606+05:30  INFO 14260 --- [ProductsPrj] [    Test worker] c.p.p.t.ProductControllerTest            : Started ProductControllerTest in 0.948 seconds (process running for 13.444)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
