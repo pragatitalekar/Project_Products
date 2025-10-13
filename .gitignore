@@ -1,1 +1,27 @@
+<<<<<<< HEAD
 build/
+=======
+# Gradle
+/build/
+/.gradle/
+/out/
+
+# IDEs
+/.idea/
+/.vscode/
+/.settings/
+*.iml
+.classpath
+.project
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Spring Boot builds
+/*.jar
+/*.war
+>>>>>>> 2d557db (Clean project: remove build/bin/.gradle and apply proper Spring Boot structure)
