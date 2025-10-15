@@ -1,4 +1,4 @@
-package com.products.pragati;
+package src.test.java.com.products.pragati;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

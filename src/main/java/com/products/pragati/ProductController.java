@@ -1,4 +1,4 @@
-package com.products.pragati.controller;
+package com.products.pragati;
 
 import java.util.List;
 import java.util.Optional;
