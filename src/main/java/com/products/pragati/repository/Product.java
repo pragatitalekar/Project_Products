@@ -1,4 +1,4 @@
-package src.main.java.com.products.pragati;
+package com.products.pragati.repository;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.DecimalMin;

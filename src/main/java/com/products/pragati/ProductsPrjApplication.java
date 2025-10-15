@@ -1,4 +1,4 @@
-package src.main.java.com.products.pragati;
+package com.products.pragati;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
